@@ -75,3 +75,14 @@ Authentication is required to access this route. Authenticated users can query t
 Example Request:
 
 GET /v1/query-bill?subscriber_no=12345&month=2024-05
+
+Api gateway:
+![api gateway](https://github.com/Dogapinarr/Gateway/assets/147092474/30eee365-8932-4a76-b265-8d63a5ba043c)
+
+Service A:
+![service a](https://github.com/Dogapinarr/Gateway/assets/147092474/c53ec971-e149-4339-b73c-1ab95907cd61)
+
+Service B: 
+![service b](https://github.com/Dogapinarr/Gateway/assets/147092474/7dc00bc2-f6c4-4088-b56d-48dd60caebf9)
+
+
