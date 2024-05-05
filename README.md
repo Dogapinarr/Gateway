@@ -86,3 +86,8 @@ Service B:
 ![service b](https://github.com/Dogapinarr/Gateway/assets/147092474/7dc00bc2-f6c4-4088-b56d-48dd60caebf9)
 
 
+Video Presentation:
+
+https://drive.google.com/file/d/110w2AaY0x6OQqPzjzwk2MstJPCyONnIp/view?usp=sharing
+
+
